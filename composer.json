@@ -3,7 +3,6 @@
     "type": "project",
     "require": {
         "php": ">=7.1.0",
-        "yiisoft/yii2": "2.0.15.1"
     },
     "authors": [
         {
@@ -12,12 +11,6 @@
         }
     ],
     "minimum-stability": "stable",
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://asset-packagist.org"
-        }
-    ],
     "autoload": {
         "psr-4": {
             "my-test\\": "src/"
