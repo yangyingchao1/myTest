@@ -1,7 +1,7 @@
 <?php
-namespace src\myTest;
+namespace src\MyTest;
 
-class myTest
+class MyTest
 {
    public function actionMyTest(){
        return 'hello world';
